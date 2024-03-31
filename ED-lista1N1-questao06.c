@@ -96,7 +96,6 @@ bool verificar_numero_carmichael(int n) {
       }
     }
   }
-
   // Se passar por todas as condições, é um número de Carmichael
   return true;
 }
